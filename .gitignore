@@ -33,4 +33,4 @@ local_settings.py
 Pipfile
 Pipfile.lock
 staticfiles
-static
+staticmyenv/
